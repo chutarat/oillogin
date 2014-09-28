@@ -1,0 +1,3 @@
+# Module chomphonproject
+# RPC service class, partial path of RPC policy file
+th.ac.utcc.chomphonProject.client.GreetingService, 3ABBC702C08DF98EACDFE3DAB4E04A2C.gwt.rpc

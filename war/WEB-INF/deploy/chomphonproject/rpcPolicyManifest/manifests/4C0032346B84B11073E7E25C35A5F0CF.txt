@@ -1,0 +1,2 @@
+serviceClass: th.ac.utcc.chomphonProject.client.GreetingService
+path: 3ABBC702C08DF98EACDFE3DAB4E04A2C.gwt.rpc
